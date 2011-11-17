@@ -1,0 +1,11 @@
+{
+  "name"            : "cow",
+  "description"     : "CouchDB Object Wrapper",
+  "url"             : "http://github.com/regality/cow",
+  "keywords"        : ["couchdb", "database", "couch", "cow"],
+  "author"          : "Adam Blackburn <regality@gmail.com>",
+  "contributors"    : [],
+  "version"         : "0.1",
+  "main"            : "./lib/cow",
+  "engines"         : { "node": ">=0.6.0" }
+}
